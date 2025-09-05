@@ -51,7 +51,7 @@ public class Post {
 
 그럼 여기서 이런 파일 트리를 만든 다음에
 
-![스크린샷 2025-07-19 오후 1.24.59.png](attachment:eeaae6c4-f021-4036-9697-f1a27ceca8bf:%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-07-19_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_1.24.59.png)
+![dto](../img/dto.png)
 
 ```java
 package com.example.boardcrud.dto.Request;
