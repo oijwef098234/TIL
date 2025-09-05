@@ -138,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "backend/HTTP 상태 코드  200, 201, 400, 401, 500.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of HTTP 상태 코드  200, 201, 400, 401, 500"
             }
           }
         ]
@@ -166,6 +167,7 @@
   },
   "active": "9d0d08bf2d0e5777",
   "lastOpenFiles": [
+    "backend/40_Recipes_HowTo/HTTP 상태 코드  200, 201, 400, 401, 500.md",
     "backend/60_Snippets_Cheats/README.md",
     "backend/50_Errors_Troubleshooting/README.md",
     "backend/40_Recipes_HowTo/README.md",
@@ -195,7 +197,6 @@
     "backend/30_Patterns_Architecture",
     "backend/20_Annotations/tx/@Transactional.md",
     "backend/20_Annotations/spring-web/@RequestParam.md",
-    "backend/20_Annotations/spring-web/@RequestMapping.md",
     "backend/20_Annotations/validation",
     "backend/20_Annotations/tx",
     "backend/20_Annotations/spring-web",
