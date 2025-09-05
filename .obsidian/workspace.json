@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/@ManyToOne, @OneToMany.md",
+                "file": "backend/@JoinColumn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@ManyToOne, @OneToMany"
+              "title": "@JoinColumn"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/@ManyToOne, @OneToMany.md",
+                "file": "backend/@JoinColumn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for @ManyToOne, @OneToMany"
+              "title": "Backlinks for @JoinColumn"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/@ManyToOne, @OneToMany.md",
+                "file": "backend/@JoinColumn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from @ManyToOne, @OneToMany"
+              "title": "Outgoing links from @JoinColumn"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/@ManyToOne, @OneToMany.md",
+                "file": "backend/@JoinColumn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of @ManyToOne, @OneToMany"
+              "title": "Outline of @JoinColumn"
             }
           }
         ]
@@ -184,9 +184,10 @@
   },
   "active": "0921d15ccf2b63a3",
   "lastOpenFiles": [
+    "backend/@ManyToOne, @OneToMany.md",
+    "backend/@JoinColumn.md",
     "img/dto.png",
     "backend/BCryptPasswordEncoder.md",
-    "backend/@ManyToOne, @OneToMany.md",
     "backend/GlobalExceptionHandler.md",
     "backend/Entity.md",
     "backend/SQL 기본 명령어(SELECT, INSERT, UPDATE, DELETE).md",
