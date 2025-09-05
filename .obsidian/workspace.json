@@ -184,6 +184,7 @@
   },
   "active": "0921d15ccf2b63a3",
   "lastOpenFiles": [
+    "img/dto.png",
     "backend/BCryptPasswordEncoder.md",
     "backend/@ManyToOne, @OneToMany.md",
     "backend/GlobalExceptionHandler.md",
@@ -211,7 +212,6 @@
     "backend/EntityManager.md",
     "backend/JPA.md",
     "backend/@RequestParam.md",
-    "backend/유효성 검사.md",
     "backend"
   ]
 }
