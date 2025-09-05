@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/BCryptPasswordEncoder.md",
+                "file": "backend/@ManyToOne, @OneToMany.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BCryptPasswordEncoder"
+              "title": "@ManyToOne, @OneToMany"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/BCryptPasswordEncoder.md",
+                "file": "backend/@ManyToOne, @OneToMany.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BCryptPasswordEncoder"
+              "title": "Backlinks for @ManyToOne, @OneToMany"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/BCryptPasswordEncoder.md",
+                "file": "backend/@ManyToOne, @OneToMany.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from BCryptPasswordEncoder"
+              "title": "Outgoing links from @ManyToOne, @OneToMany"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/BCryptPasswordEncoder.md",
+                "file": "backend/@ManyToOne, @OneToMany.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BCryptPasswordEncoder"
+              "title": "Outline of @ManyToOne, @OneToMany"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "0921d15ccf2b63a3",
   "lastOpenFiles": [
-    "backend/GlobalExceptionHandler.md",
     "backend/BCryptPasswordEncoder.md",
+    "backend/@ManyToOne, @OneToMany.md",
+    "backend/GlobalExceptionHandler.md",
     "backend/Entity.md",
     "backend/SQL 기본 명령어(SELECT, INSERT, UPDATE, DELETE).md",
     "backend/RDB.md",
@@ -211,7 +212,6 @@
     "backend/JPA.md",
     "backend/@RequestParam.md",
     "backend/유효성 검사.md",
-    "backend/@Column.md",
     "backend"
   ]
 }
