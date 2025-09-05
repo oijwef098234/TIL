@@ -1,0 +1,19 @@
+# 20_Annotations — 어노테이션 레퍼런스
+
+## 목적
+주요 어노테이션의 역할, 속성, 사용 예시를 모아두는 사전입니다.
+
+## 하위 폴더
+- `lombok/` — @Builder, @Getter, @Setter …
+- `spring-web/` — @RestController, @RequestMapping, @GetMapping, @PostMapping …
+- `spring-core/` — @Service, @Repository, @Controller, @RequiredArgsConstructor …
+- `tx/` — @Transactional …
+- `validation/` — @Valid, 제약 애노테이션, 커스텀 유효성 검사 …
+- `jpa/` — @Entity, @Table, @Id, @Column, @JoinColumn, @ManyToOne …
+
+## 파일 구성 권장
+- 목적/역할
+- 주요 속성표(테이블)
+- 코드 예시
+- Pitfall/Best Practice
+- 관련 링크(개념/레시피로 연결)
