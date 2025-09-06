@@ -11,12 +11,14 @@
             "id": "815512d3ce95cc78",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "backend/10_Concepts/Java/Lambda.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Lambda"
             }
           }
         ]
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "backend/10_Concepts/Java/Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lambda"
             }
           },
           {
@@ -110,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "backend/10_Concepts/Java/Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Lambda"
             }
           },
           {
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/HTTP 상태 코드  200, 201, 400, 401, 500.md",
+                "file": "backend/10_Concepts/Java/Lambda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HTTP 상태 코드  200, 201, 400, 401, 500"
+              "title": "Outline of Lambda"
             }
           }
         ]
@@ -165,8 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d0d08bf2d0e5777",
+  "active": "815512d3ce95cc78",
   "lastOpenFiles": [
+    "backend/README.md",
+    "backend/10_Concepts/Java/Lambda.md",
+    "backend/HTTP 상태 코드  200, 201, 400, 401, 500.md",
     "backend/40_Recipes_HowTo/HTTP 상태 코드  200, 201, 400, 401, 500.md",
     "backend/60_Snippets_Cheats/README.md",
     "backend/50_Errors_Troubleshooting/README.md",
@@ -174,7 +181,6 @@
     "backend/30_Patterns_Architecture/README.md",
     "backend/20_Annotations/README.md",
     "backend/10_Concepts/README.md",
-    "backend/README.md",
     "backend/40_Recipes_HowTo/프로젝트 폴더 repo에 올리는법.md",
     "backend/40_Recipes_HowTo/spring boot 개발 순서.md",
     "backend/60_Snippets_Cheats/SQL 기본 명령어(SELECT, INSERT, UPDATE, DELETE).md",
@@ -195,8 +201,6 @@
     "backend/30_Patterns_Architecture/DTO.md",
     "backend/30_Patterns_Architecture/BCryptPasswordEncoder.md",
     "backend/30_Patterns_Architecture",
-    "backend/20_Annotations/tx/@Transactional.md",
-    "backend/20_Annotations/spring-web/@RequestParam.md",
     "backend/20_Annotations/validation",
     "backend/20_Annotations/tx",
     "backend/20_Annotations/spring-web",
