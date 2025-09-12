@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/01_Concepts/Java/Stream().md",
+                "file": "backend/01_Concepts/Spring/HttpStauts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stream()"
+              "title": "HttpStauts"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/01_Concepts/Java/Stream().md",
+                "file": "backend/01_Concepts/Spring/HttpStauts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stream()"
+              "title": "Backlinks for HttpStauts"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/01_Concepts/Java/Stream().md",
+                "file": "backend/01_Concepts/Spring/HttpStauts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stream()"
+              "title": "Outgoing links from HttpStauts"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/01_Concepts/Java/Stream().md",
+                "file": "backend/01_Concepts/Spring/HttpStauts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stream()"
+              "title": "Outline of HttpStauts"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "815512d3ce95cc78",
   "lastOpenFiles": [
-    "backend/04_Recipes_HowTo/프로젝트 폴더 repo에 올리는법.md",
     "backend/01_Concepts/Java/Stream().md",
+    "backend/01_Concepts/Spring/HttpStauts.md",
+    "backend/04_Recipes_HowTo/프로젝트 폴더 repo에 올리는법.md",
     "backend/04_Recipes_HowTo/HTTP 상태 코드  200, 201, 400, 401, 500.md",
     "backend/04_Recipes_HowTo/README.md",
     "backend/01_Concepts/JPA/save(), findAll(), update 메서드, deleteById().md",
@@ -199,7 +200,6 @@
     "backend/04_Recipes_HowTo",
     "backend/03_Patterns_Architecture/Layered Architecture.md",
     "backend/03_Patterns_Architecture/GlobalExceptionHandler.md",
-    "backend/03_Patterns_Architecture/DTO.md",
     "backend/03_Patterns_Architecture",
     "backend/02_Annotations/validation",
     "backend/02_Annotations/tx",
