@@ -26,3 +26,12 @@
 ### @ControllerAdvice
 
 > 해당 어노테이션은 예외처리를 하는 controller를 명시하는 어노테이션이다.
+
+### @RestControllerAdvice
+
+> **전역(글로벌)으로 REST 컨트롤러에 적용되는 보조(Advice) 클래스**를 만들 때 쓰는 어노테이션
+
+- `@ControllerAdvice + @ResponseBody`의 합성임
+- **핸들러 메서드의 반환값이 자동으로 JSON**으로 응답
+
+---
