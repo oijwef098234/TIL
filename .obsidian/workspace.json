@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/05_Errors_Troubleshooting/RunTimeException.md",
+                "file": "backend/05_Errors_Troubleshooting/NPE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RunTimeException"
+              "title": "NPE"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/05_Errors_Troubleshooting/RunTimeException.md",
+                "file": "backend/05_Errors_Troubleshooting/NPE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RunTimeException"
+              "title": "Backlinks for NPE"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/05_Errors_Troubleshooting/RunTimeException.md",
+                "file": "backend/05_Errors_Troubleshooting/NPE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RunTimeException"
+              "title": "Outgoing links from NPE"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/05_Errors_Troubleshooting/RunTimeException.md",
+                "file": "backend/05_Errors_Troubleshooting/NPE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RunTimeException"
+              "title": "Outline of NPE"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "815512d3ce95cc78",
   "lastOpenFiles": [
-    "backend/05_Errors_Troubleshooting/IOExeption.md",
     "backend/05_Errors_Troubleshooting/RunTimeException.md",
+    "backend/05_Errors_Troubleshooting/NPE.md",
+    "backend/05_Errors_Troubleshooting/IOExeption.md",
     "backend/05_Errors_Troubleshooting/IllegalArgumentException.md",
     "backend/README.md",
     "backend/04_Recipes_HowTo/spring boot 개발 순서.md",
@@ -197,7 +198,6 @@
     "backend/04_Recipes_HowTo/README.md",
     "backend/01_Concepts/JPA/save(), findAll(), update 메서드, deleteById().md",
     "backend/01_Concepts/Java/Lambda.md",
-    "backend/HTTP 상태 코드  200, 201, 400, 401, 500.md",
     "backend/06_Snippets_Cheats",
     "backend/05_Errors_Troubleshooting",
     "backend/04_Recipes_HowTo",
