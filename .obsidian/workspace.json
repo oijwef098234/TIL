@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/01_Concepts/Spring/ObjectMapper.md",
+                "file": "backend/04_Recipes_HowTo/프로젝트 폴더 repo에 올리는법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ObjectMapper"
+              "title": "프로젝트 폴더 repo에 올리는법"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/01_Concepts/Spring/ObjectMapper.md",
+                "file": "backend/04_Recipes_HowTo/프로젝트 폴더 repo에 올리는법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ObjectMapper"
+              "title": "Backlinks for 프로젝트 폴더 repo에 올리는법"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/01_Concepts/Spring/ObjectMapper.md",
+                "file": "backend/04_Recipes_HowTo/프로젝트 폴더 repo에 올리는법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ObjectMapper"
+              "title": "Outgoing links from 프로젝트 폴더 repo에 올리는법"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/01_Concepts/Spring/ObjectMapper.md",
+                "file": "backend/04_Recipes_HowTo/프로젝트 폴더 repo에 올리는법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ObjectMapper"
+              "title": "Outline of 프로젝트 폴더 repo에 올리는법"
             }
           }
         ]
@@ -169,10 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "815512d3ce95cc78",
+  "active": "9d0d08bf2d0e5777",
   "lastOpenFiles": [
-    "backend/05_Errors_Troubleshooting/NPE.md",
     "backend/01_Concepts/Spring/ObjectMapper.md",
+    "backend/05_Errors_Troubleshooting/NPE.md",
     "backend/05_Errors_Troubleshooting/RunTimeException.md",
     "backend/05_Errors_Troubleshooting/IOExeption.md",
     "backend/05_Errors_Troubleshooting/IllegalArgumentException.md",

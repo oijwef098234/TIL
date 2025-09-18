@@ -60,3 +60,10 @@ git push -u origin main
 ```bash
 git push -f origin main
 ```
+### 조직 레포로 푸쉬해야한다면 권한 필요
+
+```bash
+git remote set-url origin git@github.com:GuJeuk-Check-in/GuJeuk-Check-in_BE.git
+git ls-remote origin
+git push -u origin main
+```
