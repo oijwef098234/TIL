@@ -67,3 +67,15 @@ git remote set-url origin git@github.com:GuJeuk-Check-in/GuJeuk-Check-in_BE.git
 git ls-remote origin
 git push -u origin main
 ```
+### 아예 덮어쓰기
+
+```bash
+rm -rf .git
+git init
+git add .
+git commit -m "init: clean repo with proper .gitignore"
+git branch -M main
+git remote add origin git@github.com:조직명/레포 이름.git # 이건 조직에서
+git remote add origin <https://github.com/너의계정명/레포이름.git> # 이건 개인 레포
+git push -f -u origin main
+```
