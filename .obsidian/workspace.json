@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/01_Concepts/Security/JwtTokenFilter, JwtProperties, JwtTokenProvider.md",
+                "file": "backend/01_Concepts/Security/Spring Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JwtTokenFilter, JwtProperties, JwtTokenProvider"
+              "title": "Spring Security"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/01_Concepts/Security/JwtTokenFilter, JwtProperties, JwtTokenProvider.md",
+                "file": "backend/01_Concepts/Security/Spring Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JwtTokenFilter, JwtProperties, JwtTokenProvider"
+              "title": "Backlinks for Spring Security"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/01_Concepts/Security/JwtTokenFilter, JwtProperties, JwtTokenProvider.md",
+                "file": "backend/01_Concepts/Security/Spring Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JwtTokenFilter, JwtProperties, JwtTokenProvider"
+              "title": "Outgoing links from Spring Security"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/01_Concepts/Security/JwtTokenFilter, JwtProperties, JwtTokenProvider.md",
+                "file": "backend/01_Concepts/Security/Spring Security.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JwtTokenFilter, JwtProperties, JwtTokenProvider"
+              "title": "Outline of Spring Security"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "815512d3ce95cc78",
   "lastOpenFiles": [
-    "backend/01_Concepts/Security/Token 기반 인증.md",
     "backend/01_Concepts/Security/JwtTokenFilter, JwtProperties, JwtTokenProvider.md",
+    "backend/01_Concepts/Security/Spring Security.md",
+    "backend/01_Concepts/Security/Token 기반 인증.md",
     "backend/04_Recipes_HowTo/프로젝트 폴더 repo에 올리는법.md",
     "backend/01_Concepts/Security",
     "backend/01_Concepts/Spring/ObjectMapper.md",
@@ -198,7 +199,6 @@
     "backend/01_Concepts/JVM",
     "backend/01_Concepts/Spring/HttpStauts.md",
     "backend/01_Concepts/Java/Stream().md",
-    "backend/04_Recipes_HowTo/HTTP 상태 코드  200, 201, 400, 401, 500.md",
     "backend/06_Snippets_Cheats",
     "backend/05_Errors_Troubleshooting",
     "backend/04_Recipes_HowTo",
