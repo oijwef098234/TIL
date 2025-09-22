@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/01_Concepts/Security/Filter/JwtTokenFilter.md",
+                "file": "backend/01_Concepts/Security/JwtTokenProvide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JwtTokenFilter"
+              "title": "JwtTokenProvide"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/01_Concepts/Security/Filter/JwtTokenFilter.md",
+                "file": "backend/01_Concepts/Security/JwtTokenProvide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JwtTokenFilter"
+              "title": "Backlinks for JwtTokenProvide"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/01_Concepts/Security/Filter/JwtTokenFilter.md",
+                "file": "backend/01_Concepts/Security/JwtTokenProvide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JwtTokenFilter"
+              "title": "Outgoing links from JwtTokenProvide"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/01_Concepts/Security/Filter/JwtTokenFilter.md",
+                "file": "backend/01_Concepts/Security/JwtTokenProvide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JwtTokenFilter"
+              "title": "Outline of JwtTokenProvide"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "815512d3ce95cc78",
   "lastOpenFiles": [
-    "backend/01_Concepts/Security/Filter/UsernamePasswordAuthenticationFilter.md",
     "backend/01_Concepts/Security/Filter/JwtTokenFilter.md",
+    "backend/01_Concepts/Security/JwtTokenProvide.md",
+    "backend/01_Concepts/Security/Filter/UsernamePasswordAuthenticationFilter.md",
     "backend/01_Concepts/Security/addFilterBefore.md",
     "backend/01_Concepts/Security/Filter",
     "backend/01_Concepts/Security/UserDetails, UserDetailsService.md",
@@ -198,7 +199,6 @@
     "backend/02_Annotations/spring-web/@RequestMapping.md",
     "backend/02_Annotations/spring-web/@PostMapping, @GetMapping, @DeleteMapping, @PatchMapping, @PutMapping.md",
     "backend/02_Annotations/spring-web/@RequestBody, @ResponseBody.md",
-    "backend/02_Annotations/jpa/@CreatedDate, @LastModifiedDate.md",
     "backend/01_Concepts/JVM",
     "backend/06_Snippets_Cheats",
     "backend/05_Errors_Troubleshooting",
