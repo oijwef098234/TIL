@@ -119,7 +119,7 @@ http
 
 ## .anyRequest()
 
-> 들어오는 모든 요청
+> .requestMatchers()로 설정하고 남아있는 모든 요청에 대한 설정
 
 - 마지막 **기본 규칙(Default rule)** 로 씀.
 
@@ -176,7 +176,7 @@ http.authorizeHttpRequests(auth -> auth
 
 ## .requestMatchers()
 
-> 이 요청(경로/HTTP 메서드/조건)에 대해서는 어떤 보안 규칙을 적용하라라고 지정하는 메서드
+> 이 요청(경로/HTTP 메서드/조건)에 대해서는 어떤 보안 규칙을 적용하라라고 지정하는 메서드, 각각의 요청에 설정을 할 수 있다.
 
 ### 예시
 
