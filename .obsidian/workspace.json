@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
+                "file": "backend/01_Concepts/Security/SecurityConfig.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SecurityConfig, FilterConfig"
+              "title": "SecurityConfig"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
+                "file": "backend/01_Concepts/Security/SecurityConfig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SecurityConfig, FilterConfig"
+              "title": "Backlinks for SecurityConfig"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
+                "file": "backend/01_Concepts/Security/SecurityConfig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SecurityConfig, FilterConfig"
+              "title": "Outgoing links from SecurityConfig"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
+                "file": "backend/01_Concepts/Security/SecurityConfig.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SecurityConfig, FilterConfig"
+              "title": "Outline of SecurityConfig"
             }
           }
         ]
@@ -171,7 +171,8 @@
   },
   "active": "815512d3ce95cc78",
   "lastOpenFiles": [
-    "backend/01_Concepts/Security/Untitled.md",
+    "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
+    "backend/01_Concepts/Security/SecurityConfig.md",
     "backend/01_Concepts/Security/JwtTokenProvider.md",
     "backend/01_Concepts/Security/JwtProperties.md",
     "backend/01_Concepts/Security/Filter/JwtTokenFilter.md",
@@ -183,7 +184,6 @@
     "backend/01_Concepts/Security/addFilterBefore.md",
     "backend/01_Concepts/Security/Filter",
     "backend/01_Concepts/Security/UserDetails, UserDetailsService.md",
-    "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
     "backend/01_Concepts/Security/FilterConifg.md",
     "backend/01_Concepts/Security/JwtTokenFilter, JwtProperties, JwtTokenProvider.md",
     "backend/01_Concepts/Security/Spring Security.md",
