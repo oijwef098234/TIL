@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/01_Concepts/Security/JwtTokenProvider.md",
+                "file": "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JwtTokenProvider"
+              "title": "SecurityConfig, FilterConfig"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/01_Concepts/Security/JwtTokenProvider.md",
+                "file": "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JwtTokenProvider"
+              "title": "Backlinks for SecurityConfig, FilterConfig"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/01_Concepts/Security/JwtTokenProvider.md",
+                "file": "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JwtTokenProvider"
+              "title": "Outgoing links from SecurityConfig, FilterConfig"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/01_Concepts/Security/JwtTokenProvider.md",
+                "file": "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JwtTokenProvider"
+              "title": "Outline of SecurityConfig, FilterConfig"
             }
           }
         ]
@@ -171,18 +171,19 @@
   },
   "active": "815512d3ce95cc78",
   "lastOpenFiles": [
+    "backend/01_Concepts/Security/Untitled.md",
+    "backend/01_Concepts/Security/JwtTokenProvider.md",
     "backend/01_Concepts/Security/JwtProperties.md",
     "backend/01_Concepts/Security/Filter/JwtTokenFilter.md",
     "backend/01_Concepts/Security/HttpSecurity.md",
     "backend/01_Concepts/Security/DefaultSecurityFilterChain.md",
     "backend/01_Concepts/Security/SecurityConfigurerAdapter.md",
-    "backend/01_Concepts/Security/JwtTokenProvider.md",
     "backend/01_Concepts/Security/Untitled",
     "backend/01_Concepts/Security/Filter/UsernamePasswordAuthenticationFilter.md",
     "backend/01_Concepts/Security/addFilterBefore.md",
     "backend/01_Concepts/Security/Filter",
     "backend/01_Concepts/Security/UserDetails, UserDetailsService.md",
-    "backend/01_Concepts/Security/SecurityConfig.md",
+    "backend/01_Concepts/Security/SecurityConfig, FilterConfig.md",
     "backend/01_Concepts/Security/FilterConifg.md",
     "backend/01_Concepts/Security/JwtTokenFilter, JwtProperties, JwtTokenProvider.md",
     "backend/01_Concepts/Security/Spring Security.md",
@@ -199,7 +200,6 @@
     "backend/01_Concepts/Web/HttpServletRequest, HttpServletResponse, FilterChain.md",
     "backend/01_Concepts/Web/Servlet Filter.md",
     "backend/02_Annotations/spring-core/@Service, @Controller, @Repository, @RestController, @ControllerAdvice, @RestControllerAdvice.md",
-    "backend/02_Annotations/spring-core/@RequiredArgsConstructor, @NoArgsConstructor, @AllArgsConstructor.md",
     "backend/01_Concepts/JVM",
     "backend/06_Snippets_Cheats",
     "backend/05_Errors_Troubleshooting",
