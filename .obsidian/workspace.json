@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/02_Annotations/jpa/@Indexed.md",
+                "file": "backend/02_Annotations/redis/@RedisHash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Indexed"
+              "title": "@RedisHash"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "acc7b94a360e6a05",
   "lastOpenFiles": [
-    "backend/02_Annotations/jpa/@TimeToLive.md",
     "backend/02_Annotations/jpa/@Indexed.md",
+    "backend/02_Annotations/redis/@RedisHash.md",
+    "backend/02_Annotations/redis",
+    "backend/02_Annotations/jpa/@TimeToLive.md",
     "backend/02_Annotations/jpa/@Id.md",
     "backend/02_Annotations/spring-data-redis/@TimeToLive.md",
     "backend/02_Annotations/spring-data-redis",
@@ -218,7 +220,6 @@
     "backend/01_Concepts/Security/JwtProperties.md",
     "backend/01_Concepts/Security/Filter/JwtTokenFilter.md",
     "backend/01_Concepts/Security/DefaultSecurityFilterChain.md",
-    "backend/01_Concepts/Security/SecurityConfigurerAdapter.md",
     "backend/01_Concepts/Security/Untitled",
     "backend/01_Concepts/Security/Filter",
     "backend/01_Concepts/Security",
@@ -226,7 +227,6 @@
     "backend/06_Snippets_Cheats",
     "backend/05_Errors_Troubleshooting",
     "backend/04_Recipes_HowTo",
-    "backend/03_Patterns_Architecture",
     "img/image.png"
   ]
 }
