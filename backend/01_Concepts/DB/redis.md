@@ -25,3 +25,13 @@
 |**데이터 영속성**|옵션 (RDB, AOF)|기본|
 |**주 용도**|캐시, 세션, 큐|영구 저장, 관계형 데이터 관리|
 |**확장성**|수평 확장 쉬움|수직 확장 중심|
+
+---
+
+|**기술 스택**|**DB 유형**|**주요 역할 및 특징**|
+|---|---|---|
+|**Spring Data JPA**|관계형 DB (MySQL, Oracle, PostgreSQL 등)|Java 객체 $\leftrightarrow$ RDB 테이블 매핑 (ORM). **SQL 문법 사용**.|
+|**Spring Data Redis**|비관계형 DB (Redis)|Java 객체 $\leftrightarrow$ Redis 자료구조 매핑. **Redis 명령어 사용**.|
+
+- 그래서 JpaRepository는 접근이 불가능하다
+- 따라서 CrudRepository같은것을 사용해야한다.
